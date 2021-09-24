@@ -6,7 +6,7 @@ const TextAnimation: React.FC<Props> = (props) => {
   return (
     <>
       <div className={classes.container}>
-        <div className={classes.glitch} data-text="by Goodgulp">
+        <div className={classes.glitch} data-text={props.text}>
           {props.text}
         </div>
         <div className={classes.glow}>{props.text}</div>
