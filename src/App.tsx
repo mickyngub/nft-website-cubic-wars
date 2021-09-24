@@ -1,9 +1,13 @@
-import React from "react";
-import logo from "./logo.svg";
+import Title from "PageContent/Title/Title";
 import "./App.css";
 
 function App() {
-  return <div className="App">Cubic wars</div>;
+  return (
+    <div className="App">
+      Cubic wars
+      <Title />
+    </div>
+  );
 }
 
 export default App;
