@@ -6,6 +6,9 @@ module.exports = {
       backgroundImage: {
         future: "url(./assets/futuristicbg.jpeg)",
       },
+      width: {
+        "52-%": "52%",
+      },
     },
   },
   variants: {
