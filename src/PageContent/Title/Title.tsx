@@ -1,5 +1,11 @@
+import TextAnimation from "./TextAnimation";
+
 const Title = () => {
-  return <div>This is title</div>;
+  return (
+    <div>
+      <TextAnimation text="Cubic Wars" />
+    </div>
+  );
 };
 
 export default Title;

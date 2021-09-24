@@ -3,9 +3,11 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      Cubic wars
-      <Title />
+    <div className="bg-future bg-fixed">
+      <p className="text-5xl">
+        <Title />
+      </p>
+      <div className="h-screen"></div>
     </div>
   );
 }
