@@ -14,12 +14,17 @@ body {
 .glitch {
   color: rgb(223, 191, 191);
   position: relative;
-  font-size: 9vw;
+  font-size: 11vw;
   // margin: 70px 200px;
   animation: glitch 5s 5s infinite;
   white-space: nowrap;
 }
 
+@media only screen and (max-width: 768px) {
+  .glitch {
+    font-size: 14vw;
+  }
+}
 .glitch::before {
   content: attr(data-text);
   position: absolute;
