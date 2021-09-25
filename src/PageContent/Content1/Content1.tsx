@@ -28,31 +28,31 @@ const Content1 = () => {
         style={{ transform: `translateX(${offsetY * 0.21}px)` }}
         className="w-52 lg:w-96 my-16 mr-auto "
       >
-        <Card imgPath={oda} />
+        <Card imgPath={oda} borderColor="pink" />
       </div>
       <div
         style={{ transform: `translateX(-${offsetY * 0.16}px)` }}
         className="w-52 lg:w-96 my-16 ml-auto lg:mr-64"
       >
-        <Card imgPath={harald} />
+        <Card imgPath={harald} borderColor="yellow" />
       </div>
       <div
         style={{ transform: `translateX(${offsetY * 0.13}px)` }}
         className="w-52 lg:w-96 my-16 mr-auto "
       >
-        <Card imgPath={buckz} />
+        <Card imgPath={buckz} borderColor="green" />
       </div>
       <div
         style={{ transform: `translateX(-${offsetY * 0.25}px)` }}
         className="w-52 lg:w-96 my-16 ml-auto lg:mr-64"
       >
-        <Card imgPath={oni} />
+        <Card imgPath={oni} borderColor="red" />
       </div>
       <div
         style={{ transform: `translateX(${offsetY * 0.2}px)` }}
         className="w-52 lg:w-96 my-16 mr-auto "
       >
-        <Card imgPath={coco} />
+        <Card imgPath={coco} borderColor="purple" />
       </div>
     </div>
   );

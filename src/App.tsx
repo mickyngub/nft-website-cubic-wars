@@ -11,7 +11,7 @@ function App() {
   //   return () => window.removeEventListener("scroll", handleScroll);
   // }, []);
   return (
-    <div className="bg-future bg-fixed bg-cover overflow-hidden">
+    <div className="font-black-ops-one bg-future bg-fixed bg-cover overflow-hidden">
       <p
         // style={{ transform: `translateY(${offsetY * 0.3}px)` }}
         className="text-5xl"
