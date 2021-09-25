@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nft-website-cubic-wars/static/css/main.3c8d1e90.chunk.css",
-    "main.js": "/nft-website-cubic-wars/static/js/main.4b2646fd.chunk.js",
-    "main.js.map": "/nft-website-cubic-wars/static/js/main.4b2646fd.chunk.js.map",
+    "main.css": "/nft-website-cubic-wars/static/css/main.733037c3.chunk.css",
+    "main.js": "/nft-website-cubic-wars/static/js/main.0fdbcee8.chunk.js",
+    "main.js.map": "/nft-website-cubic-wars/static/js/main.0fdbcee8.chunk.js.map",
     "runtime-main.js": "/nft-website-cubic-wars/static/js/runtime-main.ca2fc009.js",
     "runtime-main.js.map": "/nft-website-cubic-wars/static/js/runtime-main.ca2fc009.js.map",
     "static/js/2.02e7c977.chunk.js": "/nft-website-cubic-wars/static/js/2.02e7c977.chunk.js",
@@ -10,19 +10,19 @@
     "static/js/3.d072ffc6.chunk.js": "/nft-website-cubic-wars/static/js/3.d072ffc6.chunk.js",
     "static/js/3.d072ffc6.chunk.js.map": "/nft-website-cubic-wars/static/js/3.d072ffc6.chunk.js.map",
     "index.html": "/nft-website-cubic-wars/index.html",
-    "static/css/main.3c8d1e90.chunk.css.map": "/nft-website-cubic-wars/static/css/main.3c8d1e90.chunk.css.map",
+    "static/css/main.733037c3.chunk.css.map": "/nft-website-cubic-wars/static/css/main.733037c3.chunk.css.map",
     "static/js/2.02e7c977.chunk.js.LICENSE.txt": "/nft-website-cubic-wars/static/js/2.02e7c977.chunk.js.LICENSE.txt",
     "static/media/buckzgif.974ffdbb.gif": "/nft-website-cubic-wars/static/media/buckzgif.974ffdbb.gif",
     "static/media/cocogif.a9eeb4ad.gif": "/nft-website-cubic-wars/static/media/cocogif.a9eeb4ad.gif",
     "static/media/index.css": "/nft-website-cubic-wars/static/media/futuristicbg.48228b4d.jpeg",
     "static/media/haraldgif.92a24598.gif": "/nft-website-cubic-wars/static/media/haraldgif.92a24598.gif",
-    "static/media/odagif.052dbc7b.gif": "/nft-website-cubic-wars/static/media/odagif.052dbc7b.gif",
+    "static/media/odagif2.36fe416d.gif": "/nft-website-cubic-wars/static/media/odagif2.36fe416d.gif",
     "static/media/onigif.b3297c42.gif": "/nft-website-cubic-wars/static/media/onigif.b3297c42.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.ca2fc009.js",
     "static/js/2.02e7c977.chunk.js",
-    "static/css/main.3c8d1e90.chunk.css",
-    "static/js/main.4b2646fd.chunk.js"
+    "static/css/main.733037c3.chunk.css",
+    "static/js/main.0fdbcee8.chunk.js"
   ]
 }
