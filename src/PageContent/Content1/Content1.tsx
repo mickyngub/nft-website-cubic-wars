@@ -24,18 +24,24 @@ const Content1 = () => {
       >
         Cubic Wars Collection
       </p>
-      <div
-        style={{ transform: `translateX(${offsetY * 0.21}%)` }}
-        className="w-52 lg:w-96 my-16 mr-auto flex items-center"
+      <a
+        href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/51028967437474160307709443056177903529863012545341858884844728640061449437185"
+        target="_blank"
+        rel="noreferrer noreopener"
       >
-        <p className="text-xl w-96 text-center text-white">
-          <span className="text-pink-500 text-xl">005 ODA</span>
-          <br></br>
-          <br></br> ipsum dolor sit amet consectetur adipisicing elit. Ad autem
-          similique magnam sed blanditiis,
-        </p>
-        <Card imgPath={oda} borderColor="pink" />
-      </div>
+        <div
+          style={{ transform: `translateX(${offsetY * 0.21}%)` }}
+          className="w-52 lg:w-96 my-16 mr-auto flex items-center"
+        >
+          <p className="text-xl w-96 text-center text-white">
+            <span className="text-pink-500 text-xl">005 ODA</span>
+            <br></br>
+            <br></br> ipsum dolor sit amet consectetur adipisicing elit. Ad
+            autem similique magnam sed blanditiis,
+          </p>
+          <Card imgPath={oda} borderColor="pink" />
+        </div>
+      </a>
       <div
         style={{ transform: `translateX(-${offsetY * 0.16}%)` }}
         className="w-52 lg:w-96 my-16 ml-auto lg:mr-64 flex items-center"
